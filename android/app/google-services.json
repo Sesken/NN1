@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "837203332667",
+    "project_id": "signs-d750d",
+    "storage_bucket": "signs-d750d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:837203332667:android:80f35f4daaf5b3b4b8561e",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "837203332667-3sqatd67atf1pan0p2volq4j04s9so5p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSrmNF2fVbZoYXPsq_yec10uA_-weHd-Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "837203332667-3sqatd67atf1pan0p2volq4j04s9so5p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
